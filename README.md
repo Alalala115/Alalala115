@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alalala115
-- 👀 I’m interested in science, math, technology , engineering and so on.
-- 🌱 I’m currently learning python, machine learning, deep learning, artificial intelligence ,and AI for science,
+- 👀 I’m interested in physics, math, technology , engineering and so on.
+- 🌱 I’m currently a master of UCAS-TIPC
 - 💞️ I’m looking to collaborate on study together.
 - 📫 Please contact me AT cosmos.demo001@gmail.com
 
